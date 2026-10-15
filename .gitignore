@@ -1,0 +1,19 @@
+# Keil uVision build output
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.htm
+*.sct
+*.map
+*.lst
+*.dep
+
+# Keil per-user / backup files
+*.uvgui*
+*.bak
+*.scvd
+JLinkLog.txt
